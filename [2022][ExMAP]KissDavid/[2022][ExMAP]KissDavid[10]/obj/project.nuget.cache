@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFn86EYQZTAEwJx64RjzBdIaH3/yVW7CCXHZb8QjnhHeqMQF+732BAdDOgHhPotJL5Yh+1d7WiEOuufrXSPwsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kiss_\\Desktop\\MAP\\[2022][ExMAP]KissDavid[10]\\[2022][ExMAP]KissDavid[10].csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiss_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
