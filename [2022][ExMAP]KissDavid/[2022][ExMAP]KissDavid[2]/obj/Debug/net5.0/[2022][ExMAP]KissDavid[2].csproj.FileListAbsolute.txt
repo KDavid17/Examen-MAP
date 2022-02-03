@@ -1,0 +1,16 @@
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\bin\Debug\net5.0\[2022][ExMAP]KissDavid[2].exe
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\bin\Debug\net5.0\[2022][ExMAP]KissDavid[2].deps.json
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\bin\Debug\net5.0\[2022][ExMAP]KissDavid[2].runtimeconfig.json
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\bin\Debug\net5.0\[2022][ExMAP]KissDavid[2].runtimeconfig.dev.json
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\bin\Debug\net5.0\[2022][ExMAP]KissDavid[2].dll
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\bin\Debug\net5.0\ref\[2022][ExMAP]KissDavid[2].dll
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\bin\Debug\net5.0\[2022][ExMAP]KissDavid[2].pdb
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\obj\Debug\net5.0\[2022][ExMAP]KissDavid[2].csproj.AssemblyReference.cache
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\obj\Debug\net5.0\[2022][ExMAP]KissDavid[2].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\obj\Debug\net5.0\[2022][ExMAP]KissDavid[2].AssemblyInfoInputs.cache
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\obj\Debug\net5.0\[2022][ExMAP]KissDavid[2].AssemblyInfo.cs
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\obj\Debug\net5.0\[2022][ExMAP]KissDavid[2].csproj.CoreCompileInputs.cache
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\obj\Debug\net5.0\[2022][ExMAP]KissDavid[2].dll
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\obj\Debug\net5.0\ref\[2022][ExMAP]KissDavid[2].dll
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\obj\Debug\net5.0\[2022][ExMAP]KissDavid[2].pdb
+C:\Users\kiss_\Desktop\MAP\[2022][ExMAP]KissDavid[2]\obj\Debug\net5.0\[2022][ExMAP]KissDavid[2].genruntimeconfig.cache
